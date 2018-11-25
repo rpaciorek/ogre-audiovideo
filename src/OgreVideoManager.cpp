@@ -41,7 +41,7 @@ the terms of the BSD license: http://www.opensource.org/licenses/bsd-license.php
 #include <OgreHlmsManager.h>
 #include <Hlms/Unlit/OgreHlmsUnlit.h>
 #include <Hlms/Unlit/OgreHlmsUnlitDatablock.h>
-using namespace Ogre::v1;
+using Ogre::v1::HardwareBuffer;
 #endif
 
 namespace Ogre
